@@ -1,6 +1,6 @@
 ---
 title: Meraki to MindMaps
-date: 2022-09-14 12:00:00 -500
+date: 2022-09-13 12:00:00 -500
 categories: [Devnet Associate, Automation, Meraki]
 tags: [meraki, python, mindmaps, svg, devnet]
 ---
